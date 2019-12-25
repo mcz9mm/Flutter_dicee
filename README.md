@@ -3,6 +3,8 @@
 
 # Dicee 🎲
 
+### [Flutter_day4](https://github.com/mcz9mm/TIL/blob/master/Flutter/Flutter_day4.md)
+
 ## Our Goal
 
 The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you how to make apps with functionality using setState() inside Stateful Flutter widgets.
